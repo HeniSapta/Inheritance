@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\bin\Debug\net6.0\latihanInheritance.exe
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\bin\Debug\net6.0\latihanInheritance.deps.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\bin\Debug\net6.0\latihanInheritance.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\bin\Debug\net6.0\latihanInheritance.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\bin\Debug\net6.0\latihanInheritance.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\refint\latihanInheritance.dll
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.pdb
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\latihanInheritance.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\tugas1\Pertemuan 8\Pertemuan 8\obj\Debug\net6.0\ref\latihanInheritance.dll
